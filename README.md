@@ -1,2 +1,2 @@
 # BanafshAstrophysics
-Codes that I used for my astrophysics projects.
+Codes that I use for my astrophysics projects.
