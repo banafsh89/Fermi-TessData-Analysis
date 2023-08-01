@@ -9,3 +9,6 @@ Codes that I use for my astrophysics projects.
 
 4-fitUL: For a list of sources, find the best fit model that can estimate the different confidence level upperlimit flux.
 
+5- analyzeTimebin: Using FermiPy package, model flux of a source and measure the average flux. The jupyternotebook visualize the data for one time bin.
+
+6- FluxVariability: Finds the correlation between flux and variability using the data generated from code analyzetimebin.
